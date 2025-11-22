@@ -1,0 +1,4 @@
+CourseId, Title, Instructor, Time, Capacity, Enrolled
+CS101, ITC, Sir Bilal Hashmi, Tue 10AM, 2, 1
+CS102, OOP, Sir Qazi Ammar, Wed 11AM, 1, 0
+CS103, DSA, Sir Hammad Naveed, Mon 4PM, 3, 0

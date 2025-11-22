@@ -1,0 +1,125 @@
+---Course Registration System---
+1. Register Courses
+2. Drop Courses
+3. View TimeTable
+4. View All Courses
+5. Export To CSV
+6. Exit
+Enter choice: 1
+Enter Student ID: S1
+Enter Course ID: CS101
+Enrolled.
+---Course Registration System---
+1. Register Courses
+2. Drop Courses
+3. View TimeTable
+4. View All Courses
+5. Export To CSV
+6. Exit
+Enter choice: 1
+Enter Student ID: S1
+Enter Course ID: CS102
+Enrolled.
+---Course Registration System---
+1. Register Courses
+2. Drop Courses
+3. View TimeTable
+4. View All Courses
+5. Export To CSV
+6. Exit
+Enter choice: 1
+Enter Student ID: S1
+Enter Course ID: CS101
+Time Clash
+---Course Registration System---
+1. Register Courses
+2. Drop Courses
+3. View TimeTable
+4. View All Courses
+5. Export To CSV
+6. Exit
+Enter choice: 3
+Enter Student ID: S1
+
+Time Table for Eman (S1):
+Wed 11AM - CS102
+Tue 10AM - CS101
+---Course Registration System---
+1. Register Courses
+2. Drop Courses
+3. View TimeTable
+4. View All Courses
+5. Export To CSV
+6. Exit
+Enter choice: 1
+Enter Student ID: S2
+Enter Course ID: CS101
+Enrolled.
+---Course Registration System---
+1. Register Courses
+2. Drop Courses
+3. View TimeTable
+4. View All Courses
+5. Export To CSV
+6. Exit
+Enter choice: 1
+Enter Student ID: S3
+Enter Course ID: CS101
+Course Full! Added to Waitlist
+---Course Registration System---
+1. Register Courses
+2. Drop Courses
+3. View TimeTable
+4. View All Courses
+5. Export To CSV
+6. Exit
+Enter choice: 2
+Enter Student ID: S2
+Enter Course ID: CS101
+Course Dropped!
+---Course Registration System---
+1. Register Courses
+2. Drop Courses
+3. View TimeTable
+4. View All Courses
+5. Export To CSV
+6. Exit
+Enter choice: 3
+Enter Student ID: S3
+
+Time Table for Noor (S3):
+Tue 10AM - CS101
+---Course Registration System---
+1. Register Courses
+2. Drop Courses
+3. View TimeTable
+4. View All Courses
+5. Export To CSV
+6. Exit
+Enter choice: 4
+CS101, ITC, Sir Bilal Hashmi, Tue 10AM | Enrolled: 2 / 2
+CS102, OOP, Sir Qazi Ammar, Wed 11AM | Enrolled: 1 / 1
+CS103, DSA, Sir Hammad Naveed, Mon 4PM | Enrolled: 0 / 3
+---Course Registration System---
+1. Register Courses
+2. Drop Courses
+3. View TimeTable
+4. View All Courses
+5. Export To CSV
+6. Exit
+Enter choice: 5
+Courses Exported To courses.csv
+Students Exported To students.csv
+---Course Registration System---
+1. Register Courses
+2. Drop Courses
+3. View TimeTable
+4. View All Courses
+5. Export To CSV
+6. Exit
+Enter choice: 6
+Exiting...
+
+C:\Users\UltraBook\source\repos\DSA_PROJECT\x64\Debug\DSA_PROJECT.exe (process 6944) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
