@@ -26,12 +26,6 @@ It reads student academic data from files, compares grades using a distance-base
 - Data Structures knowledge  
 - Modular programming
 
-  Course-Registration-System
-│── CourseRegistration.cpp # Main C++ source code
-│── My-data.txt # Student’s personal academic record
-│── Student-data.csv # Dataset of other students
-│── README.md
-
 🔍 How the Prediction Works
 
 1️⃣ Reads your completed courses (semester, code, title, grade)  
